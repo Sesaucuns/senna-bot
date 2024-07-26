@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5491168352204']
+  ['5493491620687', 'FG98', true],
+  ['5493735569492']
 ] //Numeros de owner 
 
 global.mods = [''] 
@@ -20,8 +20,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = 'Sticker' 
+global.author = 'moon' 
 
 //--info FG
 global.botName = 'Senna'
